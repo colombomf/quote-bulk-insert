@@ -1,0 +1,20 @@
+{
+  "quotes":[
+     {
+        "text":"Your quote.",
+        "author":"Your author",
+        "videoUrl":"https://xyz.com"
+     },
+     {
+        "text":"Your quote.",
+        "author":"Your author",
+        "videoUrl":"https://xyz.com",
+        "imgUrl":"https://xyz.com"
+     },
+     {
+        "text":"Your quote.",
+        "author":"Your author",
+        "imgUrl":"https://xyz.com"
+     }
+  ]
+}
